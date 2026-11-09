@@ -1,0 +1,11 @@
+# Fichiers audio
+*.mp3
+*.m4a
+*.wav
+*.ogg
+*.flac
+*.aac
+*.wma
+
+# Exception : l'audio utilisé par le site (lecteur dans index.html)
+!Audio_Portfolio.m4a
